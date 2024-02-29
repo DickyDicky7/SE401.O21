@@ -1,4 +1,4 @@
-# OOP Design Patterns Code Examples (Nhóm 09)
+# OOP Design Patterns Presentations & Code Examples (Nhóm 09)
 
 | Tên                   | MSSV     |
 |-----------------------|----------|
