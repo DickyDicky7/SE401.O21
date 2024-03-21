@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Builder", "Builder\Builder.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prototype", "Prototype\Prototype.csproj", "{F5EE8FC9-B42F-4CA8-B830-52CF8581A3BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Composite.csproj", "{343FE842-EDF9-4688-B50C-A6855829E78C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Composite", "Composite\Composite.csproj", "{343FE842-EDF9-4688-B50C-A6855829E78C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoR", "CoR\CoR.csproj", "{4821687E-C38B-429F-806F-756926900902}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{343FE842-EDF9-4688-B50C-A6855829E78C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{343FE842-EDF9-4688-B50C-A6855829E78C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{343FE842-EDF9-4688-B50C-A6855829E78C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4821687E-C38B-429F-806F-756926900902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4821687E-C38B-429F-806F-756926900902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4821687E-C38B-429F-806F-756926900902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4821687E-C38B-429F-806F-756926900902}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
