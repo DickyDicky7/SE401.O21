@@ -1,4 +1,4 @@
-package org.trishinfotech.command;
+package command;
 
 public class HomeRemote {
 

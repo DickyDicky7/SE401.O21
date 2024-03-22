@@ -1,6 +1,6 @@
-package org.trishinfotech.command.devices.kitchen;
+package command.devices.kitchen;
 
-import org.trishinfotech.command.devices.Appliance;
+import command.devices.Appliance;
 
 public class Microwave extends Appliance {
 

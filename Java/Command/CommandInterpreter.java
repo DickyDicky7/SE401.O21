@@ -1,4 +1,4 @@
-package org.trishinfotech.command;
+package command;
 
 import java.util.Comparator;
 import java.util.List;

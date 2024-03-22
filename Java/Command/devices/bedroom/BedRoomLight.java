@@ -1,6 +1,6 @@
-package org.trishinfotech.command.devices.bedroom;
+package command.devices.bedroom;
 
-import org.trishinfotech.command.devices.Light;
+import command.devices.Light;
 
 public class BedRoomLight extends Light {
 

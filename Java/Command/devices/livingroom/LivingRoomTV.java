@@ -1,6 +1,6 @@
-package org.trishinfotech.command.devices.livingroom;
+package command.devices.livingroom;
 
-import org.trishinfotech.command.devices.TV;
+import command.devices.TV;
 
 public class LivingRoomTV extends TV {
 

@@ -1,6 +1,6 @@
-package org.trishinfotech.command.devices.kitchen;
+package command.devices.kitchen;
 
-import org.trishinfotech.command.devices.Light;
+import command.devices.Light;
 
 public class KitchenLight extends Light {
 

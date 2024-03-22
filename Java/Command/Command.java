@@ -1,8 +1,8 @@
-package org.trishinfotech.command;
+package command;
 
 import java.util.List;
 
-import org.trishinfotech.command.devices.Appliance;
+import command.devices.Appliance;
 
 public abstract class Command {
 

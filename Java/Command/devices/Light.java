@@ -1,4 +1,4 @@
-package org.trishinfotech.command.devices;
+package command.devices;
 
 public abstract class Light extends Appliance {
 

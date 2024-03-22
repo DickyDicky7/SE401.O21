@@ -1,6 +1,6 @@
-package org.trishinfotech.command.devices.livingroom;
+package command.devices.livingroom;
 
-import org.trishinfotech.command.devices.Fan;
+import command.devices.Fan;
 
 public class LivingRoomFan extends Fan {
 

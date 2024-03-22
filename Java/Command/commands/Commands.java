@@ -1,13 +1,13 @@
-package org.trishinfotech.command.commands;
+package command.commands;
 
 import java.util.Arrays;
 import java.util.List;
 
-import org.trishinfotech.command.Command;
-import org.trishinfotech.command.devices.Appliance;
-import org.trishinfotech.command.devices.Fan;
-import org.trishinfotech.command.devices.TV;
-import org.trishinfotech.command.devices.livingroom.LivingRoomTV;
+import command.Command;
+import command.devices.Appliance;
+import command.devices.Fan;
+import command.devices.TV;
+import command.devices.livingroom.LivingRoomTV;
 
 public class Commands {
 

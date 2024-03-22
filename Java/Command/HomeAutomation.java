@@ -1,4 +1,4 @@
-package org.trishinfotech.command;
+package command;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -8,23 +8,23 @@ import java.util.Map;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
-import org.trishinfotech.command.commands.Commands.DecreaseSpeedCommand;
-import org.trishinfotech.command.commands.Commands.IncreaseSpeedCommand;
-import org.trishinfotech.command.commands.Commands.OffCommand;
-import org.trishinfotech.command.commands.Commands.OnCommand;
-import org.trishinfotech.command.commands.Commands.TVDecreaseChannelCommand;
-import org.trishinfotech.command.commands.Commands.TVDecreaseVolumeCommand;
-import org.trishinfotech.command.commands.Commands.TVIncreaseChannelCommand;
-import org.trishinfotech.command.commands.Commands.TVIncreaseVolumeCommand;
-import org.trishinfotech.command.commands.Commands.TVMuteCommand;
-import org.trishinfotech.command.devices.Appliance;
-import org.trishinfotech.command.devices.bedroom.BedRoomFan;
-import org.trishinfotech.command.devices.bedroom.BedRoomLight;
-import org.trishinfotech.command.devices.kitchen.KitchenLight;
-import org.trishinfotech.command.devices.kitchen.Microwave;
-import org.trishinfotech.command.devices.livingroom.LivingRoomFan;
-import org.trishinfotech.command.devices.livingroom.LivingRoomLight;
-import org.trishinfotech.command.devices.livingroom.LivingRoomTV;
+import command.commands.Commands.DecreaseSpeedCommand;
+import command.commands.Commands.IncreaseSpeedCommand;
+import command.commands.Commands.OffCommand;
+import command.commands.Commands.OnCommand;
+import command.commands.Commands.TVDecreaseChannelCommand;
+import command.commands.Commands.TVDecreaseVolumeCommand;
+import command.commands.Commands.TVIncreaseChannelCommand;
+import command.commands.Commands.TVIncreaseVolumeCommand;
+import command.commands.Commands.TVMuteCommand;
+import command.devices.Appliance;
+import command.devices.bedroom.BedRoomFan;
+import command.devices.bedroom.BedRoomLight;
+import command.devices.kitchen.KitchenLight;
+import command.devices.kitchen.Microwave;
+import command.devices.livingroom.LivingRoomFan;
+import command.devices.livingroom.LivingRoomLight;
+import command.devices.livingroom.LivingRoomTV;
 
 public class HomeAutomation {
 
