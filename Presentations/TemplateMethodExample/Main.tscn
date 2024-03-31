@@ -1,0 +1,11 @@
+[gd_scene load_steps=3 format=3 uid="uid://gmqn1d6yfhof"]
+
+[ext_resource type="PackedScene" uid="uid://bdy1p23bl2f1i" path="res://SmilePortraitArtist.tscn" id="1_1e2su"]
+[ext_resource type="Script" path="res://CriedPortraitArtist.cs" id="2_tpfth"]
+
+[node name="Main" type="Node2D"]
+
+[node name="SmilePortraitArtist" parent="." instance=ExtResource("1_1e2su")]
+
+[node name="CriedPortraitArtist" type="Node2D" parent="."]
+script = ExtResource("2_tpfth")
